@@ -1,5 +1,5 @@
 <?php
 
-$conexion=mysqli_connect("localhost","root",'',"web-ds");
+$conexion=mysqli_connect("db","root","docker","web-DS");
 
 ?>
